@@ -5,7 +5,7 @@ StudLeague is a voting system designed for the Ukrainian Student League. It prov
 ## Main Features 🚀
 
 - 💪 Flexible sign-up process with two-factor authentication
-- ![Alt text](/screenshots/screenshots/2factor.jpg?raw=true "two-factor authentication")
+- ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/2factor.jpg?raw=true "two-factor authentication")
 - 📊 Real-time votings with websocket support
 - 📈 Detailed statistics for each voting session
 
