@@ -6,8 +6,10 @@ StudLeague is a voting system designed for the Ukrainian Student League. It prov
 
 - 💪 Flexible sign-up process with two-factor authentication
 ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/2factor.jpg?raw=true "two-factor authentication")
+
 - 📊 Real-time votings with websocket support
 ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/votings.jpg?raw=true "votings")
+
 - 📈 Detailed statistics for each voting session
 ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/votingsStats.jpg?raw=true "statistics")
 
@@ -15,12 +17,16 @@ StudLeague is a voting system designed for the Ukrainian Student League. It prov
 
 - 👤 Manage user roles: Administrators can assign specific roles to users, granting them different privileges.
 ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/roles.jpg?raw=true "roles")
+
 - ✅ User Activation: Admins have the ability to activate user accounts, ensuring that only approved users can participate.
 ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/activate.jpg?raw=true "activate user")
+
 - ❌ User Deletion: Admins can also delete user accounts if necessary.
 ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/delete.jpg?raw=true "delete user")
+
 - 🗳️ Voting Control: Admins with voting control rights can create and manage votings, including options for making them private (anonymous) or public (visible to all users). They can also close votings when necessary.
 ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/controlVotings.jpg?raw=true "control votings")
+
 - 🌐 User Type-Based Votings: Admins can create votings exclusive to certain user types, such as associate members or full-fledged members of the USL.
 ![Alt text](https://github.com/treizeez/studleague/blob/assets/screenshots/addVote.jpg?raw=true "add voting")
 
