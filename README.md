@@ -26,6 +26,14 @@ Regular users have access to the following features:
 - 🖼️ Change profile picture
 - 🌗 Switch between dark and light themes
 
+## Progressive Web App (PWA) 📱
+
+StudLeague is built as a Progressive Web App, which means it can be installed and accessed directly from users' devices, similar to a native app. It offers the following advantages:
+
+- 📥 Easy Installation: Users can install StudLeague on their devices with just a few clicks, without the need to visit an app store.
+- 🔁 Offline Support: StudLeague can work offline or in low connectivity environments, allowing users to access certain features and content even without an internet connection.
+- 🖥️ Cross-Platform Compatibility: StudLeague runs on any device with a modern web browser, including desktops, laptops, smartphones, and tablets.
+
 ## Tech Stack 💻
 
 The frontend of StudLeague is built using the following technologies:
